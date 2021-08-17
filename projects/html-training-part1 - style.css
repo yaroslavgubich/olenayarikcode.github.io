@@ -1,0 +1,10 @@
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 700;
+  flex-shrink: inherit;
+  color: #00ff37;
+  font-size: 50;
+  font-style: oblique;
+  padding-right: 15px;
+  margin: 10px;
+}
